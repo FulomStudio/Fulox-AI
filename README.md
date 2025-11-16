@@ -14,6 +14,7 @@ Amaç: küçük veri setleriyle eğitilmiş bir modelin, kullanıcı girdilerine
 
 ### ⚙️ Kurulum
 ```bash
-git clone https://github.com/kullanici/fulox.git
-cd fulox
+git clone https://github.com/FulomStudio/fulox-ai.git
+cd fulox-ai
 pip install torch
+
