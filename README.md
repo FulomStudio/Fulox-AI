@@ -1,4 +1,3 @@
-
 # 🌐 Fulox
 **Fulox**, sıfırdan geliştirilmiş basit bir **Türkçe dil modeli** projesidir.  
 Amaç: küçük veri setleriyle eğitilmiş bir modelin, kullanıcı girdilerine yanıt verebilmesini sağlamak.
@@ -17,11 +16,11 @@ Amaç: küçük veri setleriyle eğitilmiş bir modelin, kullanıcı girdilerine
 git clone https://github.com/FulomStudio/fulox-ai.git
 cd fulox-ai
 pip install torch
+```
 
 ---
 
 #### 🔑 Lisans
-Bu proje Fulom Studio tarafından geliştirilmiştir. 
-Kod parçaları kullanılabilir, ancak projenin tamamı birebir kopyalanarak yayınlanamaz.  
+Bu proje **Fulom Studio** tarafından geliştirilmiştir.  
+Kod parçaları kullanılabilir, ancak projenin tamamı **birebir kopyalanarak yayınlanamaz**.  
 © 2025 Fulom Studio
-
