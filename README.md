@@ -18,3 +18,10 @@ git clone https://github.com/FulomStudio/fulox-ai.git
 cd fulox-ai
 pip install torch
 
+---
+
+#### 🔑 Lisans
+Bu proje Fulom Studio tarafından geliştirilmiştir. 
+Kod parçaları kullanılabilir, ancak projenin tamamı birebir kopyalanarak yayınlanamaz.  
+© 2025 Fulom Studio
+
