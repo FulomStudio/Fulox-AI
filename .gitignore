@@ -1,0 +1,17 @@
+# Veri Setleri (Çok büyük boyutlu oldukları için GitHub'a yüklenmez)
+data/
+*.pt
+*.txt
+
+# Model Ağırlıkları (İndiren kişi kendi bilgisayarında eğiteceği için yüklenmez)
+checkpoints/
+*.pth
+
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
+
+# Sanal ortam
+venv/
+env/
+.env
